@@ -50,7 +50,14 @@ a:active {
 }
 
 #screen {
-	
+	background-color: white;
+	padding-top: 30px;
+	position: relative;
+	top: 30px;
+	width: 70%;
+	height: 70%;
+	margin: auto;
+	border-radius: 30px;
 }
 
 @import url(http://fonts.googleapis.com/css?family=Raleway);
