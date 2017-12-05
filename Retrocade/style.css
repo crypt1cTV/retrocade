@@ -13,7 +13,31 @@
     text-align: center;
     padding-top: 30px;
     font-size: 4em;
+    color:black;
+    
 }
+
+a:link {
+  text-decoration: none;
+  color:black;
+}
+
+a:visited {
+  text-decoration: none;
+  color:black;
+}
+
+a:hover {
+  text-decoration: none;
+  color:black;
+}
+
+a:active {
+  text-decoration: none;
+  color:#E0AB1F;
+}
+
+
 
 .content {
     background-color: black;
@@ -110,7 +134,7 @@
   
 }
 #cssmenu > ul > li.active > a {
-  color: #dff2fa;
+  color: #E0AB1F;
   
 }
 #cssmenu > ul > li:hover > a,
@@ -221,20 +245,9 @@
   background: #dff2fa;
 }
 
-#home {
+#navbar-items {
   font-family: "Press Start 2P";
 
 }
 
-#products {
-  font-family: "Press Start 2P";
-}
 
-#company {
-  font-family: "Press Start 2P";
-}
-
-#contact {
-  font-family: "Press Start 2P";
-  size: 1em;
-}
