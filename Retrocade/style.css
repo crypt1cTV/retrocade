@@ -6,14 +6,13 @@
     width: 100%;
     height: 100%;
     background-color: #E0AB1F;
-    align:
 }
 
 .retrocade {
-    font-family: "Queen of Camelot";
+    font-family: "Press Start 2P";
     text-align: center;
     padding-top: 30px;
-    font-size: 6em;
+    font-size: 4em;
 }
 
 .content {
@@ -42,6 +41,7 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  
 
 }
 #cssmenu:after,
@@ -52,14 +52,17 @@
   visibility: hidden;
   line-height: 0;
   height: 0;
+  
 }
 #cssmenu #menu-button {
   display: none;
+  
 }
 #cssmenu {
   width: auto;
   font-family: Raleway, sans-serif;
   line-height: 1;
+  
 }
 #cssmenu > ul {
   background: #000000;
@@ -69,17 +72,21 @@
   -webkit-perspective: 1000px;
   -moz-perspective: 1000px;
   perspective: 1000px;
+  
 }
 #cssmenu.align-center > ul {
   font-size: 0;
   text-align: center;
+  
 }
 #cssmenu.align-center > ul > li {
   display: inline-block;
   float: none;
+  
 }
 #cssmenu.align-right > ul > li {
   float: right;
+  
 }
 #cssmenu > ul > li > a {
   padding: 16px 20px;
@@ -99,9 +106,11 @@
   -webkit-transform-style: preserve-3d;
   -moz-transform-style: preserve-3d;
   transform-style: preserve-3d;
+  
 }
 #cssmenu > ul > li.active > a {
   color: #dff2fa;
+  
 }
 #cssmenu > ul > li:hover > a,
 #cssmenu > ul > li > a:hover {
@@ -110,6 +119,7 @@
   -moz-transform: rotateX(90deg) translateY(-23px);
   transform: rotateX(90deg) translateY(-23px);
   -ms-transform: none;
+  
 }
 #cssmenu > ul > li > a::before {
   position: absolute;
@@ -135,6 +145,7 @@
   -moz-transform-origin: 50% 0;
   transform-origin: 50% 0;
   -ms-transform: translateY(- -18px);
+  
 }
 #cssmenu > ul > li:hover > a::before,
 #cssmenu > ul > li > a:hover::before {
@@ -142,6 +153,7 @@
 }
 #cssmenu.small-screen {
   width: 100%;
+  
 }
 #cssmenu.small-screen > ul,
 #cssmenu.small-screen.align-center > ul {
@@ -209,18 +221,19 @@
 }
 
 #home {
-  font-family: "Queen of Camelot";
+  font-family: "Press Start 2P";
 
 }
 
 #products {
-  font-family: "Queen of Camelot";
+  font-family: "Press Start 2P";
 }
 
 #company {
-  font-family: "Queen of Camelot";
+  font-family: "Press Start 2P";
 }
 
 #contact {
-  font-family: "Queen of Camelot";
+  font-family: "Press Start 2P";
+  size: 1em;
 }
