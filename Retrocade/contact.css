@@ -59,7 +59,10 @@ a:active {
 	margin: auto;
 	border-radius: 30px;
 	padding: 30px;
+	overflow: auto;
+	padding-right: 1px;
 }
+
 .formbutton{
 	padding: 10px;
 	width: 15%;
