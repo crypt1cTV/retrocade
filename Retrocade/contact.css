@@ -69,6 +69,7 @@ a:active {
 
 textarea {
   resize: none;
+  max-width: 100%;
 }
 
 label
