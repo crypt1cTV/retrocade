@@ -1,0 +1,25 @@
+.about2 {
+	font-family: "Press Start 2P";
+    text-align: center;
+    padding-top: 30px;
+    font-size: 12pt;
+    color:black;
+    
+}
+
+.about1 {
+	font-family: "Press Start 2P";
+    text-align: center;
+    padding-top: 30px;
+    font-size: 35pt;
+    color:black;
+    
+}
+
+img.right { 
+float: right; 
+margin: 0.5em 1em 1em 0; 
+border: 0px; 
+height: 45%;
+clear: right; 
+}
