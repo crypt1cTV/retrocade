@@ -4,3 +4,6 @@
 [0116/120113.862:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Gofat\Reports\Dump: Het systeem kan het opgegeven pad niet vinden. (0x3)
 [0116/120113.872:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: De pipe is beëindigd. (0x6D)
 [0116/120113.874:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Gofat\Reports\Dump: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[0116/130000.393:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Gofat\Reports\Dump: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[0116/130000.404:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: De pipe is beëindigd. (0x6D)
+[0116/130000.405:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Gofat\Reports\Dump: Het systeem kan het opgegeven pad niet vinden. (0x3)
