@@ -11,7 +11,7 @@ div {
 .element1 {
     float: left;
     height: 98%;
-  }
+	}
   
   .element2 {
     float: left;
@@ -21,4 +21,8 @@ div {
   .element3 {
     float: left;
     height: 95%;
+  }
+  
+  table, th,td{
+	  border: 1px solid black;
   }
