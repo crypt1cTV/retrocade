@@ -1,11 +1,24 @@
+img {
+  height:75%;
+  width:30%;
+  
+}
+
+div {
+
+}
+
 .element1 {
     float: left;
+    height: 98%;
   }
   
   .element2 {
     float: left;
+    height: 95%;
   }
   
   .element3 {
     float: left;
+    height: 95%;
   }
